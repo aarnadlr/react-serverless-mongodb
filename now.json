@@ -1,0 +1,9 @@
+{
+  "name": "react-serverless-mongodb",
+  "version": 2,
+  "alias": ["react-serverless-mongodb.now.sh"],
+  "scope": "aarnadlr",
+  "env": {
+    "MONGODB_URI": "@my-mongodb-uri"
+  }
+}
